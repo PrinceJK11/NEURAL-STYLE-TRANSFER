@@ -16,11 +16,6 @@
 
 This project performs **Neural Style Transfer** using a pre-trained VGG-19 network from PyTorch’s `torchvision.models`. The goal is to blend the *content* of one image with the *style* of another to create a visually artistic result.
 
-## 📸 Example
-
-<p align="center">
-  <img src="stylized_output.jpg" alt="Stylized Output" width="500"/>
-</p>
 
 ## 🧠 What is Neural Style Transfer?
 
